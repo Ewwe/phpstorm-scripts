@@ -1,0 +1,1 @@
+docker-compose --file docker/docker-compose.build.yaml build --no-cache
