@@ -1,0 +1,1 @@
+docker exec -it -w $1 $2 php bin/console $3 100
